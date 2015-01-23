@@ -100,7 +100,7 @@ CryptoTrade.prototype.makeRequest = function(method, params, callback) {
 
 CryptoTrade.prototype.makePublicApiRequest = function(method, pair, callback) {
   this._sendRequest({
-    url: this.publicApiUrl + method + '/' + pair;
+    url: this.publicApiUrl + method + '/' + pair
   }, callback);
 };
 
