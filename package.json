@@ -1,0 +1,40 @@
+{
+  "name": "crypto-trade",
+  "description": "crypto-trade.com API client for node.js",
+  "homepage": "https://github.com/michaelf77/node-crypto-trade",
+  "keywords": [
+    "crypto-trade",
+    "btc",
+    "ltc",
+    "bitcoin",
+    "litecoin"
+  ],
+  "author": {
+    "name": "Michael Feinstein"
+  },
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/michaelf77/node-crypto-trade/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {
+    "request": "2.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelf77/node-crypto-trade"
+  },
+  "main": "crypto-trade.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "version": "1.0.5",
+  "readme": "node-crypto-trade\n=====\n\nAn unofficial node.js client for the [crypto-trade trade api](https://www.crypto-trade.com/api/v1/documentation) ## License\n\nThis module is [ISC licensed](https://github.com/michaelf77/node-crypto-trade/blob/master/LICENSE.txt).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/michaelf77/node-crypto-trade/issues"
+  },
+  "_id": "crypto-trade@1.0.5",
+  "_from": "crypto-trade@"
+}
